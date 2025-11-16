@@ -1,2 +1,6 @@
-# Ai_Toolkit
-Small chunks of scripts and AI resources
+# Ready to use code snips
+
+Small chunks of scripts
+
+
+- TBD and modified
